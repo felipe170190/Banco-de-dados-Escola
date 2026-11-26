@@ -1,6 +1,6 @@
 # Plataforma de Hospedagem
 
-Projeto desenvolvido como atividade prática em uma aula de Banco de Dados do curso de Programação. O objetivo foi aplicar conceitos de modelagem relacional e SQL na criação de uma base de dados para uma plataforma de hospedagem.
+Projeto desenvolvido como atividade prática para aula de Banco de Dados do curso de Programação. O objetivo foi aplicar conceitos de modelagem relacional e SQL na criação de uma base de dados para uma plataforma de hospedagem.
 
 ## Tecnologias e ferramentas
 
